@@ -22,5 +22,5 @@ object Recursion extends App:
 
     println(gcdTail(127, 127 * 2))
     println(gcdTail(127, pow(127, 2)))
-    println(gcdTail(33, 22))
+    println(gcdTail(99, 66))
             
