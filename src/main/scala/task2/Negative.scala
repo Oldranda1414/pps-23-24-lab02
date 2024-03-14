@@ -1,4 +1,4 @@
-package task3
+package task2
 
 object Negative extends App:
     val exampleString: String = "giovanni"

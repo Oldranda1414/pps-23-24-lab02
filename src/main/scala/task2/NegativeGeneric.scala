@@ -1,4 +1,4 @@
-package task3;
+package task2;
 
 object NegativeGeneric extends App:
     val exampleString: String = "giovanni"

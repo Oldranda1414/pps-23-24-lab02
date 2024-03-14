@@ -1,4 +1,4 @@
-package task4
+package task2
 
 object Currying extends App:
     val p1: Int => Int => Int => Boolean = x => y => z => x<=y && y==z

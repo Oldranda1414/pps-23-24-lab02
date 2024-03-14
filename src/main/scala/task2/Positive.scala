@@ -1,4 +1,4 @@
-package task3
+package task2
 
 object Positive extends App:
     val positiveVal: (Int) => String = (i: Int) => i match
