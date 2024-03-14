@@ -18,6 +18,6 @@ object Negative extends App:
         pred => !pred(_)
     
     println("apply negativeVal to empty")
-    val negativeEmpty= negativeVal(empty)
+    val negativeEmpty= negative(empty)
     println("apply negativeEmpty to exampleString, result is: " + negativeEmpty(exampleString))
     println("apply negativeEmpty to empty String, result is: " + negativeEmpty(""))
